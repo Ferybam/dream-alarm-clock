@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "tuple": "cpp",
+        "*.tcc": "cpp",
+        "ctime": "cpp",
+        "iomanip": "cpp",
+        "limits": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp",
+        "cmath": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "istream": "cpp"
+    }
+}
